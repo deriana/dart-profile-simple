@@ -20,7 +20,7 @@ class _ContainerBoxState extends State<ContainerBox> {
               color: Colors.white,
             ),
           ),
-          backgroundColor: Colors.purple[300],
+          backgroundColor: const Color.fromARGB(255, 63, 63, 63),
         ),
         body: Center(
           child: Container(
@@ -53,7 +53,7 @@ class _ContainerBoxState extends State<ContainerBox> {
                 ),
                 const Gap(5),
                 const Text(
-                  "Sorasaki Hina",
+                  "Deryana Maruf",
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 const Text("XI PPLG RPL 1"),
@@ -78,7 +78,7 @@ class _ContainerBoxState extends State<ContainerBox> {
                       ),
                       const Gap(5),
                       const Text(
-                        "Isteri",
+                        "Student",
                         style: TextStyle(
                             fontSize: 15, fontWeight: FontWeight.bold),
                       ),
@@ -87,7 +87,7 @@ class _ContainerBoxState extends State<ContainerBox> {
                 ),
                 const Gap(5),
                 const Text(
-                  "Kenapa Sorasaki Hina itu Cantik, karena dia itu pengertian baik ramah dan juga dia imut benget pliss (CANTIK BANGET ALLAHU AKBAR)",
+                  "Lorem ipsum dolor sit amet consectur adispacing elit, lorem ipsum dolor sit amet consectur adispacing elite",
                   textAlign: TextAlign.center,
                 ),
                 const Gap(10),
